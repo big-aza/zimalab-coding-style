@@ -147,7 +147,7 @@ return PhpCsFixer\Config::create()
         // There MUST NOT be more than one property or constant declared per statement.
         'single_class_element_per_statement' => true,
         // There MUST be one use keyword per declaration.
-        'single_import_per_statement' => true,
+        'single_import_per_statement' => false,
         // Each namespace use MUST go on its own line and there MUST be one blank line after the use statements block.
         'single_line_after_imports' => true,
         // Single-line comments and multi-line comments with only one line of actual content should use the `//` syntax.
