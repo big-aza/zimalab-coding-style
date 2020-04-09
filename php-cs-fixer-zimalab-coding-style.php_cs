@@ -19,7 +19,7 @@ return PhpCsFixer\Config::create()
         // A single space or none should be between cast and variable.
         'cast_spaces' => true,
         // Class, trait and interface elements must be separated with one blank line.
-        'class_attributes_separation' => true,
+        'class_attributes_separation' => false,
         // Whitespace around the keywords of a class, trait or interfaces definition should be one space.
         'class_definition' => true,
         // The PHP constants `true`, `false`, and `null` MUST be written using the correct casing.
