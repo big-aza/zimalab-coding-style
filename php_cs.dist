@@ -153,7 +153,7 @@ return PhpCsFixer\Config::create()
         // Single-line comments and multi-line comments with only one line of actual content should use the `//` syntax.
         'single_line_comment_style' => true,
         // Throwing exception must be done in single line.
-        'single_line_throw' => true,
+        'single_line_throw' => false,
         // Convert double quotes to single quotes for simple strings.
         'single_quote' => true,
         // Each trait `use` must be done as single statement.
