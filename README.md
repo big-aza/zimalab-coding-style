@@ -1,8 +1,9 @@
-<h1 align="center">
-      Coding-style
-</h1>
+# Coding-style with PHP-CS-FIXER
 
 
-<p align="center">
-  <img width="460" height="300" src="code.png" alt="code">
-</p>
+Installation:
+-------------------------
+
+```bash
+ composer req aza/coding-style
+```
