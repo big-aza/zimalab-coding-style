@@ -1,0 +1,12 @@
+{
+    "name": "aza/coding-style",
+    "authors": [
+        {
+            "name": "Vlad Shashkov",
+            "email": "root@myaza.info"
+        }
+    ],
+    "require": {
+        "friendsofphp/php-cs-fixer": ">=2.18.2"
+    }
+}
